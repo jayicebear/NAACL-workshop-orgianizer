@@ -1,6 +1,6 @@
  # Normalized Korean slang Test, Train, and Validate dataset
- ## Model: GPT4o-mini
- ## Human evaluation: 2 people 
+Model: GPT4o-mini
+Human evaluation: 2 people 
  
 
 ### Example
